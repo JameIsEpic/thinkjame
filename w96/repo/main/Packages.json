@@ -1,0 +1,121 @@
+[
+    {
+        "name": "mytube",
+        "friendlyName": "MyTube",
+        "description": "personal video sharing websight",
+        "author": "billygoat891 (https://billygoat891.github.io/)",
+        "category": "entertainment",
+        "version": 1.1,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/m/mytube/icon32.png",
+            "16x16": "$REPO_PATH$/dist/m/mytube/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/m/mytube/"
+    },
+    {
+        "name": "developers",
+        "friendlyName": "developers",
+        "description": "developers developers developers developers developers developers developers developers developers...",
+        "author": "billygoat891 (https://billygoat891.github.io/)",
+        "category": "entertainment",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/d/developers/icon32.png",
+            "16x16": "$REPO_PATH$/dist/d/developers/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/d/developers/"
+    },
+	{
+        "name": "w96-wallpapers-classic",
+        "friendlyName": "Windows 96 Classic Wallpapers Pack",
+        "description": "Classic wallpapers for your installation.",
+        "author": "Windows 96 Team (https://windows96.net)",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/w/w96-wallpapers-classic/icon32.png",
+            "16x16": "$REPO_PATH$/dist/w/w96-wallpapers-classic/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/w/w96-wallpapers-classic/"
+    },
+    {
+        "name": "rickroll",
+        "friendlyName": "RICKROLL",
+        "description": "Nice little package to rickroll the user.",
+        "author": "billygoat891 (https://billygoat891.github.io/)",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/r/rickroll/icon32.png",
+            "16x16": "$REPO_PATH$/dist/r/rickroll/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/r/rickroll/"
+    },
+    {
+        "name": "paint",
+        "friendlyName": "Paint",
+        "description": "Painting App For Windows 96",
+        "author": "billygoat891 (https://billygoat891.github.io/)",
+        "category": "accessories",
+        "version": 1.1,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/p/paint/icon32.png",
+            "16x16": "$REPO_PATH$/dist/p/paint/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/p/paint/"
+    },
+    {
+        "name": "ratmovie",
+        "friendlyName": "Rat Movie:Mystery of the Mayan Treasure",
+        "description": "Jerma985's Rat Movie",
+        "author": "Jerma985 (https://www.youtube.com/user/Jerma985)",
+        "category": "entertainment",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/r/ratmovie/icon32.png",
+            "16x16": "$REPO_PATH$/dist/r/ratmovie/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/r/ratmovie/"
+    },
+    {
+        "name": "icedog",
+        "friendlyName": "Icedog",
+        "description": "Web Browser For Windows 96",
+        "author": "billygoat891 (https://billygoat891.github.io/)",
+        "category": "accessories",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/i/icedog/icon32.png",
+            "16x16": "$REPO_PATH$/dist/i/icedog/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/i/icedog/"
+    }
+]
