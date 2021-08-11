@@ -1,0 +1,18 @@
+[
+    {
+        "name": "geforcenow",
+        "friendlyName": "Geforce Now [REQUIRES HIFRAME FOR CHROME]",
+        "description": "Cloud gaming",
+        "author": "Jame (https://jameisepic.neocities.org",
+        "category": "entertainment",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/g/geforcenow/icon32x32.png",
+            "16x16": "$REPO_PATH$/dist/g/geforcenow/icon16x32.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/g/geforcenow/"
+    },
