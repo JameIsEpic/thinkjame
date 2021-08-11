@@ -11,9 +11,9 @@
         "max_os_version": 9999,
         "depends": [],
         "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/g/geforcenow/icon32x32.png",
-            "16x16": "$REPO_PATH$/dist/g/geforcenow/icon16x32.png"
+            "32x32": "https://jameisepic.github.io/thinkjame/w96/repo/main/dist/g/geforcenow/icon32x32.png",
+            "16x16": "https://jameisepic.github.io/thinkjame/w96/repo/main/dist/g/geforcenow/icon16x32.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/g/geforcenow/"
+        "packageRoot": "https://jameisepic.github.io/thinkjame/w96/repo/main/dist/g/geforcenow"
     },
 ]
