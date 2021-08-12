@@ -1,0 +1,1 @@
+This file was created in C:/user/appdata/PACKAGE_NAME (in this case, C:/user/appdata/sample-package)
