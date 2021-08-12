@@ -1,1 +1,0 @@
-This file was created in C:/local/PACKAGE_NAME (in this case, c:/local/sample-package)

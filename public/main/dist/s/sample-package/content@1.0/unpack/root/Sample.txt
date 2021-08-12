@@ -1,3 +1,0 @@
-This file was created in C:/
-
-This directory is a representation of C:/, so creating a folder in here called "sample" will create C:/sample
