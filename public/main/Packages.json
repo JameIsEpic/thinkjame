@@ -17,8 +17,8 @@
         "packageRoot": "$REPO_PATH$/dist/s/sample-package"
     },
         {
-        "name": "Discord[REQUIRES HIFRAME FOR CHROME]",
-        "friendlyName": "discordapp",
+        "name": "discordapp",
+        "friendlyName": "Discord[REQUIRES HIFRAME FOR CHROME]",
         "description": "A discord client for your install!",
         "author": "Jame (Jame#0131/jameisepic.neocities.org)",
         "category": "accessories",
