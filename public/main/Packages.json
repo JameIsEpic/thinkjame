@@ -46,7 +46,7 @@
         "depends": [],
         "iconFiles": {
             "32x32": "$REPO_PATH$/dist/i/ipera/iperaicon32.png",
-            "16x16": "$REPO_PATH$/dist/d/ipera/iperaicon16.png"
+            "16x16": "$REPO_PATH$/dist/i/ipera/iperaicon16.png"
         },
         "packageRoot": "$REPO_PATH$/dist/i/ipera/"
     }
