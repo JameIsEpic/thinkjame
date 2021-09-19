@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>iframe-browser</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+  <div class="tab">
+    Address:&nbsp;<input type="text" id="address"></input>
+    <button onclick="history.back()" class="btn"><</button>
+    <button onclick="history.forward()" class="btn">></button>
+    <button onclick="load()" class="btn">Load</button>
+    <button onclick="newtab()" class="btn">New tab</button><br>
+    <div id="tabbtns">
+      <button class="btn active" onclick="openTab(1)" id="tabb1">Tab 1</button>
+    </div>
+  </div>
+  <div id="tabs">
+    <div id="tab1" class="tabcontent" style="display:block">
+      <span onclick="close()" class="topright">[x]</span>
+      <span onclick="fullscreen(byId('iweb'+currentTab))" class="topright2">[+]</span>
+      <div class="resizer ugly">
+      <iframe class="resized" src="" allow="camera;microphone" style="border: none" height="480" width="1460" id="iweb1" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
